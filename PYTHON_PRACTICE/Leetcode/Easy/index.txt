@@ -1,0 +1,27 @@
+706	.Design HashMap
+705	.Design HashSet
+
+# Bai 27)Employee Importance -> skip
+# BAi 28) Shortest Completing Word -> skip
+# Bai 29) Verifying an Alien Dictionary -> skip
+# Bai 30) Longest Harmonious Subsequence -> skip ko hieu de =((
+# Bai 31) Longest Word in Dictionary -> skip
+
+sort
+#1370. Increasing Decreasing String
+
+# solve later 
+#141 Linked List Cycle
+# 234	Palindrome Linked List
+# 232. Implement Queue using Stacks
+# 225. Implement Stack using Queues
+# 155. Min Stack
+# 703. Kth Largest Element in a Stream
+# 933	Number of Recent Calls
+#1046. Last Stone Weight
+
+# 	1656	Design an Ordered Stream
+#1598	 Crawler Log Folder
+
+
+sort, recursion, binary search, BFS
